@@ -1,0 +1,3 @@
+flute_A4.wav - musical instrument, fs = 48000 Hz
+ja_female.wav - female voice, fs = 48000 Hz
+mridangam.wav - percussion instrument, fs = 48000 Hz
